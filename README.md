@@ -1,41 +1,53 @@
-Retail Performance Dashboard
+# Retail Performance Dashboard
 
-This project presents a comprehensive Retail Performance Dashboard built to analyze sales performance, order behavior, product insights, and customer segments. The dashboard provides clear visualizations to support decision-making in retail operations.
+This project presents a comprehensive **Retail Performance Dashboard** used to analyze sales, orders, product insights, and customer segments.
 
-📊 Dashboard Overview
+---
 
-The dashboard is divided into two main sections:
+## 📊 Dashboard Overview
 
-1. Sales Performance Dashboard
+### **1. Sales Performance Dashboard**
+Includes:
+- **Total Sales:** $10,917,457  
+- **Quantity Sold:** 48,177 units  
+- **Total Orders:** 9,500  
+- **Average Order Value:** $1,149  
 
-Includes insights on:
+Visuals included:
+- Sales Trend  
+- Top 5 Products by Sales  
+- Sales by Region  
+- Sales by Customer Segment  
 
-Total Sales: $10,917,457
+### **2. Orders Performance Dashboard**
+Includes:
+- Order Volume Trend  
+- Top 5 Most Ordered Products  
+- Orders by Payment Method  
+- Orders by Customer Segment  
 
-Total Quantity Sold: 48,177 units
+---
 
-Total Orders: 9,500
+## 📈 Key Insights
 
-Average Order Value: $1,149
+### **Sales Insights**
+- Sales reached **$10.9M** with a strong average order value.
+- Peaks occurred in **June** and **October 2023**.
+- Top revenue drivers: **Table, Sofa, Lipstick, Laptop, Rice**.
+- Top regions: **Bali, Jakarta, Bandung**.
+- Customer segments contribute almost evenly (Retail, Wholesale, Online).
 
-Key visual components:
+### **Order Insights**
+- Monthly order volume is stable.
+- Most frequently ordered items: **Lipstick, Phone, Milk, Laptop, Rice**.
+- Payment methods are evenly distributed.
+- Orders split evenly across customer segments.
 
-Sales Trend (2023–2024)
+---
 
-Top 5 Products by Sales
+## 🛠️ Tools Used
+- Excel / Google Sheets  
+- Power BI / Tableau / Excel Dashboard  
+- Data Visualization  
 
-Total Sales by Region
-
-Total Sales per Customer Segment
-
-2. Orders Performance Dashboard
-
-Provides analysis of order-related metrics:
-
-Order Volume Trend
-
-Top 5 Products by Number of Orders
-
-Orders by Payment Method
-
-Orders per Customer Segment
+---
