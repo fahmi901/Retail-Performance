@@ -46,8 +46,4 @@ Includes:
 ---
 
 ## 🛠️ Tools Used
-- Excel / Google Sheets  
-- Power BI / Tableau / Excel Dashboard  
-- Data Visualization  
-
----
+- Microsoft Excel 
